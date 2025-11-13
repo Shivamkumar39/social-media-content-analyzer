@@ -1,7 +1,14 @@
-🚀 Social Media Content Analyzer
+📘 Project Overview – Social Media Content Analyzer
 
-AI-powered tool that helps you analyze and improve social media content.
-Upload PDFs or images, automatically extract text using OCR, and get instant AI-generated insights — including engagement scores, catchy titles, hashtags, and improvement tips.
+The Social Media Content Analyzer is an advanced web-based application built using JavaScript, React.js, Node.js, and Gemini AI API to analyze and evaluate the quality and performance of social media content. The platform helps creators, marketers, and businesses gain deep insights into how their posts perform across different platforms.
+
+This project allows users to upload images, videos, or text posts, which are then analyzed using AI-powered models to generate sentiment analysis, engagement predictions, keyword recommendations, and content improvement tips. It also supports both image and PDF file uploads, providing flexibility for various use cases.
+
+The backend is powered by Node.js and Express, ensuring secure API communication and efficient data handling. The frontend, developed in React with Tailwind CSS, offers a modern and responsive UI that works seamlessly on all devices.
+
+By integrating Gemini AI, the project delivers real-time insights, enabling users to enhance their content quality and engagement strategies.
+
+This tool is ideal for digital marketing teams, social media managers, and individual creators who aim to improve their online presence through data-driven content optimization.
 
 🧩 Project Overview
 
@@ -26,6 +33,7 @@ npm install
 Create a .env file in the project root and add your key:
 
 OPENAI_API_KEY=your_openai_api_key_here
+and other db api key
 
 4️⃣ Run the development server
 npm run dev
