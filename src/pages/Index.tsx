@@ -56,7 +56,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="mt-20 border-t border-border bg-card py-8">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
-          <p>Powered by AI • Extract text from PDFs and images with OCR</p>
+          <p>Powered by Shivam kumar • Extract text from PDFs and images with OCR</p>
         </div>
       </footer>
     </div>
